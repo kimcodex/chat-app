@@ -1,5 +1,5 @@
 # This is a simple chat system
-#### keynotes:
+#### Technologies:
 - Object Oriented
 - PDO
 - MySQL DB
